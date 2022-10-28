@@ -16,7 +16,7 @@ export default function About() {
             hundred problems in Codeforeces. Recently I started to solve data
             structures problems in Leetcode online judge. I also have
             professional experience in web development and technology mentioned
-            in the Skills section. problems
+            in the Skills section.
           </p>
           <div className="flex justify-center">
             <a
